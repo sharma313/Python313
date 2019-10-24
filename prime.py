@@ -11,7 +11,7 @@ else:
     print("is not prime")
 '''
 '''
-a=int(input())
+a=eval(input())
 for x in range(2,a+1):
     j=2
     while j<=x:
